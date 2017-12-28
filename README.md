@@ -1,1 +1,1 @@
-# Thinkful
+# Thinkful Capstone
